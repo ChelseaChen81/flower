@@ -1,4 +1,4 @@
-﻿[
+﻿{"flowers":[
   {
     "Flower_Name": "Aster",
     "Flower_Story & Origins": "The Aster is a unique daisy-like wildflower that’s known for its star-shaped flower head. Aster meanings include love and wisdom. With a rich history in Greek mythology, it’s said that the aster was created by the tears of the Greek goddess, Astraea. One day, she was so upset by how few stars there were in the dark sky, that she began to cry. As she wept, her tears fell to the ground and turned into star-shaped aster flowers. Thus, the flower was named after her, with aster meaning star. Another interpretation is that asters were created when Virgo scattered stardust over the Earth. Where the stardust settled, aster flowers bloomed. The aster is also an emblem of Venus, the goddess of love.",
@@ -119,4 +119,5 @@
     "Flower_Uses": "The sunflower has been used throughout history in many different ways. Sunflowers were originally cultivated by Native Americans, and used for food and medicine. Medicinal uses included using the juice from the stems to treat wounds and infusing the plant in water to treat kidneys and chest pains. Though sunflowers aren’t typically used medicinally anymore, they are still grown for agricultural purposes. The two main types of sunflower varieties grown are the oil seed type, which has small black seeds, and the non-oil type, which has larger seeds with a thicker hull. Sunflower oil is used for cooking and in beauty products, and its health benefits include improved heart health and lower cholesterol.Whether you’re simply trying to brighten someone’s day, or you want to show how much you adore them, the vibrant, fun nature of sunflowers make them a great choice.",
     "Flower_Image": "https://www.ftd.com/blog/wp-content/uploads/2016/02/hero-sunflower-meanings-720x500.jpg"
   }
-]
+],
+}
